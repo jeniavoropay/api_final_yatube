@@ -98,13 +98,13 @@ PUT /api/v1/posts/{id}/
 ```
 PATCH /api/v1/posts/{id}/
 ```
-**Request sample**
+**Пример запроса**
 ```
 {
     "text": "updstring"
 }
 ```
-**Response sample**
+**Пример ответа**
 ```
 {
     "id": 0,
